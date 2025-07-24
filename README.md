@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on : A hotel and car wash management SaaS as a FullStack Dev<br>🤝 I'm looking to collaborate on : software development, data and cloud computing projects <br>🌱 I'm currently learning : Docker, Kubernetes & cloud architecture with AWS<br>💬 Ask me about : Python, crypto, data<br>⚡ Fun fact : I like share my knowledge and learn every day some new things😄
+🔭 I'm currently working on : A hotel and car wash management **SaaS** as a **FullStack Dev**<br>🤝 I'm looking to collaborate on : software development, data and cloud computing projects <br>🌱 I'm currently learning : Docker, Kubernetes & cloud architecture with AWS<br>💬 Ask me about : Python, crypto, data<br>⚡ Fun fact : I like share my knowledge and learn every day some new things😄
 
 
 ## 🌐 Socials:
