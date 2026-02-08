@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm Coulibaly Nahouo Albert 
-Software developer | Python & Django enthusiast | Building APIs, automation tools, and scalable web apps | Passionate about clean code and data-driven solutions.<br>🤝 I'm looking to collaborate on : software development, data and cloud computing projects <br>🌱 I'm currently learning : Docker, Kubernetes & cloud architecture with AWS<br>💬 Ask me about : Python, crypto, data<br>⚡ Fun fact : I like share my knowledge and learn every day some new things😄
+🔭 I'm Coulibaly Nahouo Albert<br>
+Software developer | Code enthusiast | Building APIs, automation tools, and scalable web apps | Passionate about clean code and data-driven solutions.<br>🤝 I'm looking to collaborate on : software development, data and cloud computing projects <br>🌱 I'm currently learning : Docker, Kubernetes & cloud architecture with AWS<br>💬 Ask me about : Python, crypto, data<br>⚡ Fun fact : I like share my knowledge and learn every day some new things😄
 
 
 ## 🌐 Socials:
